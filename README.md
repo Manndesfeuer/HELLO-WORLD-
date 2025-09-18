@@ -1,2 +1,11 @@
-# HELLO-WORLD-
-First assignment on MAC101 CLASS
+//HELLO-WORLD-//
+//First assignment on MAC101 CLASS//
+#include <iostream>
+using namespace std;
+
+int main()
+
+{
+cout <<"HELLO WORLD";<<endl;
+}
+return 0;
